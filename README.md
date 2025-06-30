@@ -1,8 +1,39 @@
-# React + Vite
+# 🚗 Car Mechanic Shop Management System
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A fullstack web application designed for car mechanics and customers to streamline appointment scheduling, vehicle maintenance tracking, and customer relationship management.
 
-Currently, two official plugins are available:
+This project offers an all-in-one solution for managing auto repair operations efficiently and securely.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
+
+## 🔧 Features
+
+- 📅 **Appointment Scheduling**: Customers can book, reschedule, or cancel service appointments.
+- 🛠️ **Maintenance History Tracking**: Mechanics can log and access full service history for each vehicle.
+- 👥 **Customer Management**: Admin panel for storing and updating customer profiles and contact details.
+- 🔐 Secure login for both customers and shop staff.
+- 📊 Dashboard view for shop staff to monitor scheduled jobs and workload.
+
+---
+
+## 🛠 Tech Stack
+
+**Frontend:**  
+- React.js  
+- HTML5  
+- CSS3  
+
+**Backend:**  
+- Django (Python)  
+- Django REST Framework  
+- MySQL  
+
+---
+
+## ⚙️ Setup Instructions
+
+1. **Clone the repository**
+
+```bash
+git clone https://github.com/Habte417/car_shop_management.git
+cd car_shop_management
